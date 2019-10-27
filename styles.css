@@ -29,6 +29,9 @@ nav {
 }
 
 nav ul {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
     margin: 0;
     padding: 0;
     list-style: none;
