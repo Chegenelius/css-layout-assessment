@@ -8,17 +8,19 @@ body {
 img {
     max-width: 100%;
     display: block;
+    float: left;
+    
 }
 
 .logo {
     font-size: 200%;
     padding: 50px 20px;
-    margin: 0 auto;
+    margin: 0;
     max-width: 980px;
 }
 
 .grid {
-    margin: 0 auto;
+    margin: 0;
     padding: 0 20px;
     max-width: 980px;
 }
@@ -52,3 +54,4 @@ nav a {
 .feature {
     width: 200px;
 }
+
